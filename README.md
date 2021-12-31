@@ -2,6 +2,7 @@
 
 本项目基于Ant Design Vue Pro的权限控制逻辑，在该基础上，增加了权限控制指令，可以用于公用组件、tag、switch、checkbox的权限控制,详见core/directives/action.js文件
 也可以直接下载Ant Design Vue Pro文件，将该项目中的action.js替换成core/directives/action.js文件
+
 Overview
 ----
 
